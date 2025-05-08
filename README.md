@@ -1,5 +1,6 @@
 # basic_object_follower
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4e993653-0245-4355-8f40-83f5305ffef2)
+
 
 ## Overview
 
@@ -61,7 +62,7 @@ The robot responds to the IR sensor input as follows:
 
 The Arduino `.ino` file included in this repository reads sensor input and controls the motors accordingly. Motor directions are managed using 4 output pins connected to a motor driver module.
 
-See [`line_follower.ino`](line_follower.ino) for the full code.
+See [`object_follower.ino`](object_follower.ino) for the full code.
 
 ---
 
